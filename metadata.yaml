@@ -1,0 +1,41 @@
+_repo: The-Negro-in-the-SouthHis-Economic-Progress-in-Relation-to-his-Moral-and-Religious-Developmen__35399
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Du Bois, W. E. B. (William Edward Burghardt)
+    aliases:
+    - Bois, W. E. B. Du
+    - DuBois, W. E. B. (William Edward Burghardt)
+    - DuBois, W. E. Burghardt
+    birthdate: 1868
+    deathdate: 1963
+    gutenberg_agent_id: '226'
+    url: http://www.gutenberg.org/2009/agents/226
+    wikipedia: http://en.wikipedia.org/wiki/W._E._B._DuBois
+  - agent_name: Washington, Booker T.
+    alias: Washington, Booker Taliaferro
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '880'
+    url: http://www.gutenberg.org/2009/agents/880
+    wikipedia: http://en.wikipedia.org/wiki/Booker_T._Washington
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2011-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans -- Southern States'
+title: 'The Negro in the South
+
+  His Economic Progress in Relation to his Moral and Religious Development'
+url: http://www.gutenberg.org/ebooks/35399
